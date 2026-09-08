@@ -22,6 +22,8 @@
 
 Inside of the project folder run:
 
+TESTE
+
  1. `npm install --save-dev`
  1. `npm run ci`
 
