@@ -25,6 +25,8 @@ Inside of the project folder run:
  1. `npm install --save-dev`
  1. `npm run ci`
 
+TESTE
+
 After that you should see a `./output` folder with some `HTML` reports.
 
 ### Docs to Api under tests: 
